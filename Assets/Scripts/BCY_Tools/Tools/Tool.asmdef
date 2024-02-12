@@ -1,0 +1,16 @@
+{
+    "name": "GameTools",
+    "rootNamespace": "GameDev.Tool_BCY",
+    "references": [
+        "GUID:3ce0cf2654ad3464aa58eb2e27f77f0d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
